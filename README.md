@@ -76,3 +76,8 @@ The application follows a simple full-stack architecture:
 │  resources                   │
 │  reservations                │
 └──────────────────────────────┘
+## ER Diagram
+
+The ER diagram shows the relationships between users, resources, and reservations.
+
+[View ER Diagram](https://dbdiagram.io/embed?utm_source=chatgpt.com#c=VGFibGUgdXNlcnMgewogIGlkIGludCBbcGssIGluY3JlbWVudF0KICBuYW1lIHZhcmNoYXIKICBlbWFpbCB2YXJjaGFyIFt1bmlxdWVdCiAgY3JlYXRlZEF0IHRpbWVzdGFtcAp9CgpUYWJsZSByZXNvdXJjZXMgewogIGlkIGludCBbcGssIGluY3JlbWVudF0KICBuYW1lIHZhcmNoYXIKICBkZXNjcmlwdGlvbiB0ZXh0CiAgdHlwZSB2YXJjaGFyCiAgbG9jYXRpb24gdmFyY2hhcgogIGNyZWF0ZWRBdCB0aW1lc3RhbXAKfQoKVGFibGUgcmVzZXJ2YXRpb25zIHsKICBpZCBpbnQgW3BrLCBpbmNyZW1lbnRdCiAgc3RhcnRUaW1lIHRpbWVzdGFtcAogIGVuZFRpbWUgdGltZXN0YW1wCiAgdXNlcklkIGludCBbbm90IG51bGxdCiAgcmVzb3VyY2VJZCBpbnQgW25vdCBudWxsXQogIGNyZWF0ZWRBdCB0aW1lc3RhbXAKCiAgaW5kZXhlcyB7CiAgICAocmVzb3VyY2VJZCwgc3RhcnRUaW1lLCBlbmRUaW1lKQogIH0KfQoKVUmVmOiByZXNlcnZhdGlvbnMudXNlcklkID4gdXNlcnMuaWQKUmVmOiByZXNlcnZhdGlvbnMucmVzb3VyY2VJZCA%2BIHJlc291cmNlcy5pZAo%3D)
